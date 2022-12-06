@@ -1,0 +1,222 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="eae45f83-9c74-4c1f-a0b3-daaba6fa1490" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/tests/a_basics/C10_WindowHandle1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/tests/a_basics/C11_WindowHandle2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/tests/a_basics/C12_WindowHandle3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/tests/a_basics/C13_Iframe.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/tests/a_basics/C14_Alerts.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/tests/a_basics/C1_YoutubeAssertion.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/tests/a_basics/C2_DependsOnMethod.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/tests/a_basics/C3_Dropdown1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/tests/a_basics/C4_Dropdown.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/tests/a_basics/C5_HandleDropdowns.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/tests/a_basics/C6_SoftAssertion1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/tests/a_basics/C7_SoftAssertion2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/tests/a_basics/C8_SoftAssertion3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/tests/a_basics/C9_BasicAuthentication.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/tests/c_classesWithTestBase/C15_TestBaseUsage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/tests/c_classesWithTestBase/C16_MouseActions1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/tests/c_classesWithTestBase/C17_MouseActions2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/tests/c_classesWithTestBase/C18_MouseActions3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/tests/c_classesWithTestBase/C19_KeyboardActions1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/tests/c_classesWithTestBase/C20_KeyboardActions2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/tests/c_classesWithTestBase/C21_FileExist.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/tests/c_classesWithTestBase/C22_FileDownload.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/tests/c_classesWithTestBase/C23_FileUpload.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/tests/c_classesWithTestBase/C24_ExplicitlyWait.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/tests/c_classesWithTestBase/C25_Faker.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/tests/c_classesWithTestBase/C26_CookiesAutomation.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/tests/c_classesWithTestBase/C27_ScreenShot.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/tests/c_classesWithTestBase/C28_ScreenShotDirectory.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/tests/c_classesWithTestBase/C29_JsExecuterClick.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/tests/c_classesWithTestBase/C30_JsExecutorScrollIntoView.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/utilities/TestBase.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="2IUjQwhWhO7uzRkWH2Ggv36kQ4F" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/ibrko/IdeaProjects/TESTNG4/src/test/java&quot;
+  }
+}</component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\ibrko\IdeaProjects\TESTNG4\src\test\java" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="utilities" />
+    </key>
+  </component>
+  <component name="RunManager" selected="TestNG.C02_MouseActions1.test">
+    <configuration default="true" type="JetRunConfigurationType">
+      <module name="TestNGFrameWithQts" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="KotlinStandaloneScriptRunConfigurationType">
+      <module name="TestNGFrameWithQts" />
+      <option name="filePath" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="C02_MouseActions1.test" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="TestNGFrameWithQts" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="tests.c_classesWithTestBase.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="tests.c_classesWithTestBase" />
+      <option name="MAIN_CLASS_NAME" value="tests.c_classesWithTestBase.C02_MouseActions1" />
+      <option name="METHOD_NAME" value="test" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="C05_Alerts" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="TestNGFrameWithQts" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="tests.a_basics.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="tests.b_methods" />
+      <option name="MAIN_CLASS_NAME" value="tests.a_basics.C05_Alerts" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="C07_Iframe.iframeTest" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="TestNGFrameWithQts" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="tests.a_basics.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="tests.b_methods" />
+      <option name="MAIN_CLASS_NAME" value="tests.a_basics.C07_Iframe" />
+      <option name="METHOD_NAME" value="iframeTest" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="C08_WindowHandle2.test" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="TestNGFrameWithQts" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="tests.a_basics.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="tests.b_methods" />
+      <option name="MAIN_CLASS_NAME" value="tests.a_basics.C08_WindowHandle2" />
+      <option name="METHOD_NAME" value="test" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="C08_WindowHandle3.test" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="TestNGFrameWithQts" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="tests.a_basics.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="tests.b_methods" />
+      <option name="MAIN_CLASS_NAME" value="tests.a_basics.C08_WindowHandle3" />
+      <option name="METHOD_NAME" value="test" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="TestNG.C02_MouseActions1.test" />
+        <item itemvalue="TestNG.C08_WindowHandle3.test" />
+        <item itemvalue="TestNG.C08_WindowHandle2.test" />
+        <item itemvalue="TestNG.C07_Iframe.iframeTest" />
+        <item itemvalue="TestNG.C05_Alerts" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="eae45f83-9c74-4c1f-a0b3-daaba6fa1490" name="Changes" comment="" />
+      <created>1670243048221</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1670243048221</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>
